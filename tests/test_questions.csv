@@ -1,0 +1,16 @@
+Question,Expected Result
+What is artificial intelligence?,Answer should be based on the uploaded document
+What are the three key topics covered in 6.034?,Should mention search knowledge representation and inference and machine learning
+What mathematical background is required to understand machine learning?,Should mention differential calculus of several variables and vector algebra
+What is the purpose of the 6.034 course?,Answer should be based on the uploaded document
+What topics are covered in artificial intelligence?,Answer should be based on the uploaded document
+What is machine learning?,Answer only if supported by the uploaded document
+What is search in artificial intelligence?,Answer only if supported by the uploaded document
+What is knowledge representation?,Answer only if supported by the uploaded document
+What is inference?,Answer only if supported by the uploaded document
+What mathematical concepts are mentioned in the document?,Should identify the mathematical background mentioned in the document
+What is the capital of France?,Should return the required refusal message
+What is the population of India?,Should return the required refusal message
+What is the difference between BFS and DFS?,Should return the required refusal message
+Who invented the telephone?,Should return the required refusal message
+What is quantum computing?,Should return the required refusal message
